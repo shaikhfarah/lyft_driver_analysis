@@ -11,6 +11,8 @@ To calculate and visualize the **Lifetime Value (LTV)** of drivers based on thei
 **Formula Used:**
 LTV = Average Ride Revenue × Rides per Week × Lifespan (in weeks)
 
+![image](https://github.com/user-attachments/assets/52500e07-6207-4665-9947-7dee0407ba81)
+
 ### 1. 📊 LTV Table View
 ![image](https://github.com/user-attachments/assets/9480563e-3c03-4ab8-b895-1bd0f5f5b3c1)
 
